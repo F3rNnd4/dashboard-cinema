@@ -2,6 +2,7 @@ import Header from "@/components/header";
 import styles from "./page.module.css";
 import Sidebar from "@/components/sidebar";
 import DashboardContent from "@/components/dashboardContent";
+import SummaryCards from "@/components/summaryCards";
 
 export default function Home() {
   return (

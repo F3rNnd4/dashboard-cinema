@@ -1,13 +1,13 @@
 .sidebar {
     width: 15%;
-    background-color: #2c5282;
+    background-color: #8b0000;
     color: #fff;
     padding: 1rem 0;
 }
 
 .sidebarHeader {
     padding: 0 1.5rem 1rem;
-    border-bottom: 1px solid #3182ce;
+    border-bottom: 1px solid #ececec;
 }
 
 .sidebarMenu ul {
@@ -34,6 +34,6 @@
 
 .sidebarMenu ul li a:hover,
 .sidebarMenu ul li a.active {
-    background-color: #3182ce;
+    background-color: #c00000;
     color: #fff;
 }
